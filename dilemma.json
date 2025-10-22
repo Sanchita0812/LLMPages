@@ -1,0 +1,11 @@
+{
+  "people": 3,
+  "case_1": {
+    "swerve": true,
+    "reason": "Saving two lives is preferable to saving one, all other factors being equal."
+  },
+  "case_2": {
+    "swerve": false,
+    "reason": "The moral weight of saving a child outweighs the potential negative impact of allowing criminals to live, especially if their crimes are not severe. Life has inherent value, but a child's potential future should be prioritized."
+  }
+}
